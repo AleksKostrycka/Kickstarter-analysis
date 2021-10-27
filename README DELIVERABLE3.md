@@ -20,7 +20,7 @@ After creating this visualization that has MONTHS on the x-axis, and the number 
 ### Analysis of Outcomes Based on Goals
 The purpose of the second analysis was to create a correlation between the size of the fundraising goal and campaign's success, specifically focusing on theatrical play campaings. First we created a new table in a new sheet that was titled Outcomes Based on Goals. This table was designed to group fundraising goals on a scale to organize the number of successful, failed and canceled campaings on the goal scale. See table below for the outcome of the exercise. 
 
-![This is an image](https://ucb.bootcampcontent.com/alekskostrycka-EYIWpz/kickstarter-analysis/-/raw/main/Outcomes_based_on_Goals_Table_.png)
+![This is an image](https://github.com/AleksKostrycka/Kickstarter-analysis/blob/main/Outcomes%20based%20on%20Goals%20Table%20.png?raw=true)
 
 This table was completed largely by using the `COUNTIFS` function in Excel. This function allows the user to count the number of outcomes based on ranges and a specific critetria. We are able to connect this table to the original Kickstarter dataset to summarize the data in a specific way. In the next section we will explain the details of how the formula was written to perform this analysis and create this table. 
 
