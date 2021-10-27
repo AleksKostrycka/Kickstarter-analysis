@@ -70,7 +70,7 @@ The answer to the question above is 76%. Meaning that 76% of theatrical play cam
 #### Analysis of Outcomes Based on Goals Visualization
 As stated in the first analysis, the table alone can be cumbersome to read and interpert to be able to fully analyze the data. Therefore a visualization must be created to be able to easily identify the trends within this data set. The graph below was created by hilighting the Goal Column (A) as well as the Percentage of Successful, Percetange of Failed, and Percentage of Canceled outcomes, Columns (F, G & H). Then, using the Insert tab within Excel and choosing the line graph function. 
 
-![This is an image](https://ucb.bootcampcontent.com/alekskostrycka-EYIWpz/kickstarter-analysis/-/raw/main/Outcomes_vs_Goals.png)
+![This is an image](https://github.com/AleksKostrycka/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png?raw=true)
 
 After creating this visualization we can see the range of fundraising goals on the x-axis and the percentage of outcomes on the y-axis. We can map the percentage of successful  outcomes and percentage of failed outcomes based on the fundraising goal. We can interpert the line graph and determine historically what size fundraising goal campaings were frequently successful in the theatrical play landscape. For the fundraising goal of equal to or greater than $1,000 and less than of equal to $4,999 - 73% were successful and 27% failed. Therfore if we are looking to design a play with the fundraising goal with in that range, we have histrocial data that tells us there is a 73% success rate for that range.
 
