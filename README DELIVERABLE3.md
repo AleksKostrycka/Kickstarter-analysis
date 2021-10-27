@@ -13,7 +13,7 @@ The purpose of this analysis is to create a correlation between the month the th
 
 In the Pivot table you can see how many total theatrical campaings were started in a given month, regardless of year of the campaign. Further you can see the count of successful, failed and canceled campaings that were launched in a given month. Just from looking at the data table above you can already see that by far the most successful campaigns were launched in May and June. However, looking at numbers on a pivot able can prove to be diffucult as this can be overwhelming and confusing. Therefore visualizing this information in a graph format proved to be a much easier way to digest the information and come up with conclusions. The graph was created by hilighting the pivot table data, using the Insert tab and choosing the Line graph option in Excel. This created the visualization below:
 
-![This is an image](https://ucb.bootcampcontent.com/alekskostrycka-EYIWpz/kickstarter-analysis/-/raw/main/Theater_Outcomes_vs_Launch.png)
+![This is an image](https://github.com/AleksKostrycka/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
 
 After creating this visualization that has MONTHS on the x-axis, and the number of campaings on the y-axis we are able to graph 3 individual lines to represent the number of successful, failed and canceled theater campaings launched in a given month. This is designed to tell us which month a campaing can be launched that will have the greatest chance of success based on the historical data presented. From looking at the graph the greatest number of successful campaings were launched between April - August. 
 
